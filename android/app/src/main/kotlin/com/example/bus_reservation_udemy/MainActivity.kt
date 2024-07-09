@@ -1,4 +1,4 @@
-package com.example.bus_reservation_udemy
+package com.example.bus_reservation
 
 import io.flutter.embedding.android.FlutterActivity
 

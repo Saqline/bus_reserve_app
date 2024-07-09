@@ -1,5 +1,5 @@
-import 'package:bus_reservation_udemy/models/app_user.dart';
-import 'package:bus_reservation_udemy/models/bus_reservation.dart';
+import 'package:bus_reservation/models/app_user.dart';
+import 'package:bus_reservation/models/bus_reservation.dart';
 
 import '../models/auth_response_model.dart';
 import '../models/bus_model.dart';

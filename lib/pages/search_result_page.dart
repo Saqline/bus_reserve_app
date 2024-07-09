@@ -1,7 +1,7 @@
-import 'package:bus_reservation_udemy/models/bus_schedule.dart';
-import 'package:bus_reservation_udemy/models/bus_route.dart';
-import 'package:bus_reservation_udemy/providers/app_data_provider.dart';
-import 'package:bus_reservation_udemy/utils/constants.dart';
+import 'package:bus_reservation/models/bus_schedule.dart';
+import 'package:bus_reservation/models/bus_route.dart';
+import 'package:bus_reservation/providers/app_data_provider.dart';
+import 'package:bus_reservation/utils/constants.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 

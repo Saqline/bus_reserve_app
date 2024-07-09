@@ -1,6 +1,6 @@
-import 'package:bus_reservation_udemy/models/app_user.dart';
-import 'package:bus_reservation_udemy/providers/app_data_provider.dart';
-import 'package:bus_reservation_udemy/utils/helper_functions.dart';
+import 'package:bus_reservation/models/app_user.dart';
+import 'package:bus_reservation/providers/app_data_provider.dart';
+import 'package:bus_reservation/utils/helper_functions.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 
@@ -32,7 +32,7 @@ class _LoginPageState extends State<LoginPage> {
             children: [
               Padding(
                 padding: const EdgeInsets.all(32.0),
-                child: Text('Admin Login', textAlign: TextAlign.center, style: Theme.of(context).textTheme.headline4,),
+                child: Text('Admin Login', textAlign: TextAlign.center, style: Theme.of(context).textTheme.headlineMedium,),
               ),
               Padding(
                 padding: const EdgeInsets.all(4.0),

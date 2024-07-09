@@ -1,4 +1,4 @@
-import 'package:bus_reservation_udemy/datasource/temp_db.dart';
+import 'package:bus_reservation/datasource/temp_db.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 

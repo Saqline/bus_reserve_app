@@ -1,8 +1,8 @@
-import 'package:bus_reservation_udemy/customwidgets/seat_plan_view.dart';
-import 'package:bus_reservation_udemy/providers/app_data_provider.dart';
-import 'package:bus_reservation_udemy/utils/colors.dart';
-import 'package:bus_reservation_udemy/utils/constants.dart';
-import 'package:bus_reservation_udemy/utils/helper_functions.dart';
+import 'package:bus_reservation/customwidgets/seat_plan_view.dart';
+import 'package:bus_reservation/providers/app_data_provider.dart';
+import 'package:bus_reservation/utils/colors.dart';
+import 'package:bus_reservation/utils/constants.dart';
+import 'package:bus_reservation/utils/helper_functions.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 

@@ -1,10 +1,10 @@
-import 'package:bus_reservation_udemy/datasource/data_source.dart';
-import 'package:bus_reservation_udemy/datasource/dummy_data_source.dart';
-import 'package:bus_reservation_udemy/models/app_user.dart';
-import 'package:bus_reservation_udemy/models/auth_response_model.dart';
-import 'package:bus_reservation_udemy/models/bus_model.dart';
-import 'package:bus_reservation_udemy/models/response_model.dart';
-import 'package:bus_reservation_udemy/utils/helper_functions.dart';
+import 'package:bus_reservation/datasource/data_source.dart';
+import 'package:bus_reservation/datasource/dummy_data_source.dart';
+import 'package:bus_reservation/models/app_user.dart';
+import 'package:bus_reservation/models/auth_response_model.dart';
+import 'package:bus_reservation/models/bus_model.dart';
+import 'package:bus_reservation/models/response_model.dart';
+import 'package:bus_reservation/utils/helper_functions.dart';
 import 'package:flutter/material.dart';
 
 import '../datasource/app_data_source.dart';
